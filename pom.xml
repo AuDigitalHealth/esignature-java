@@ -4,7 +4,7 @@
 
     <groupId>au.gov.nehta</groupId>
     <artifactId>esignature</artifactId>
-    <version>1.1.1</version>
+    <version>1.1.2-SNAPSHOT</version>
     <name>Esignature support library</name>
     <description>Java classes for esignatures</description>
     <url>https://github.com/AuDigitalHealth/esignature-java</url>
